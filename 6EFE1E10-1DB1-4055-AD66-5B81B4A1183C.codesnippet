@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>ywcem</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>#if defined (DEBUG) &amp;&amp; (YouWoCE)
+&lt;#有我-校园版Debug环境#&gt;
+#elif defined YouWoCE
+&lt;#有我-校园版Release环境#&gt;
+#endif</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>6EFE1E10-1DB1-4055-AD66-5B81B4A1183C</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>youwoce macro</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>youwoce macro</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
