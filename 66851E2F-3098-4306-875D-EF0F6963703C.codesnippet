@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>ssdr</string>
+	<string>psr</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>static NSString *const &lt;#类型名#&gt; = &lt;#值#&gt;; ///&lt; &lt;#描述#&gt;</string>
+	<string>@property (strong, nonatomic) &lt;#type#&gt; *&lt;#name#&gt;; ///&lt; &lt;#属性描述#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>5ECBA190-46D4-4A91-9661-A9B87B9B8FA1</string>
+	<string>66851E2F-3098-4306-875D-EF0F6963703C</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>字符串静态变量</string>
+	<string>psr</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>ssdr</string>
+	<string>psr</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

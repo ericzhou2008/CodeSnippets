@@ -3,22 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>pa</string>
+	<string>par</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>/// &lt;#属性描述#&gt;
-@property (nonatomic, assign) &lt;#type#&gt; &lt;#name#&gt;;</string>
+	<string>@property (assign, nonatomic) &lt;#type#&gt; &lt;#name#&gt;; ///&lt; &lt;#属性描述#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>15BC6B42-FA85-4EEA-BFD3-54312C19370C</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>pa</string>
+	<string>par</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>property assign</string>
+	<string>property assign right</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

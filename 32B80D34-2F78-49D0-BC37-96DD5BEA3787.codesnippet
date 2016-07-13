@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>debugrd</string>
+	<string>drd</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
@@ -19,7 +19,7 @@
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>debugrd</string>
+	<string>调试与发布宏</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>debug release define</string>
 	<key>IDECodeSnippetUserSnippet</key>
