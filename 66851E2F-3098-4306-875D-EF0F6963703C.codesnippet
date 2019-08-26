@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (strong, nonatomic) &lt;#type#&gt; *&lt;#name#&gt;; ///&lt; &lt;#属性描述#&gt;</string>
+	<string>@property (nonatomic, strong, nullable) &lt;#type#&gt; *&lt;#name#&gt;; ///&lt; &lt;#属性描述#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>66851E2F-3098-4306-875D-EF0F6963703C</string>
 	<key>IDECodeSnippetLanguage</key>

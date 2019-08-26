@@ -3,21 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>sdr</string>
+	<string>idaw</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>static &lt;#类型#&gt; const &lt;#类型名#&gt; = &lt;#值#&gt;; ///&lt; &lt;#描述#&gt;</string>
+	<string>#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Wdeprecated-declarations"
+    &lt;#code#&gt;
+#pragma clang diagnostic pop</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>E90C9AB9-5D31-4189-BDB5-10EFF7E3B09C</string>
+	<string>C8CE248B-D367-4124-B234-C84A4EDAC3B1</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>sdr</string>
+	<string>idaw</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>static description on right</string>
+	<string>inhibit deprecated api warning</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
