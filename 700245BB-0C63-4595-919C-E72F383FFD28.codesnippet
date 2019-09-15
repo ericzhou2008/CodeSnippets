@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic, copy)  &lt;#返回值#&gt;(^&lt;#block名#&gt;)(&lt;#参数列表#&gt;); ///&lt; &lt;#属性描述#&gt;</string>
+	<string>@property (nonatomic, copy) &lt;#返回值#&gt;(^&lt;#block名#&gt;)(&lt;#参数列表#&gt;); ///&lt; &lt;#属性描述#&gt;</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>700245BB-0C63-4595-919C-E72F383FFD28</string>
 	<key>IDECodeSnippetLanguage</key>
