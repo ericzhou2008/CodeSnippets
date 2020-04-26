@@ -3,27 +3,29 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string></string>
+	<string>dispas</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Wdeprecated-declarations"
-    &lt;#code#&gt;
-#pragma clang diagnostic pop</string>
+	<string>dispatch_async(dispatch_get_global_queue(DISPATCH_QUEUE_PRIORITY_DEFAULT, 0), ^{
+                &lt;#code#&gt;
+                dispatch_async(dispatch_get_main_queue(), ^{
+                    &lt;#code#&gt;
+                });
+            });</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>08F00B85-138D-47F4-AA92-8321683D56BB</string>
+	<string>BAABC4F1-2C70-4157-8B09-58E762DB304A</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<string>Xcode.SourceCodeLanguage.C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string></string>
+	<string>dispatch_async</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>My Code Snippet</string>
+	<string>dispas</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
-	<integer>2</integer>
+	<integer>0</integer>
 </dict>
 </plist>

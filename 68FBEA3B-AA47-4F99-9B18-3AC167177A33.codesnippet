@@ -3,24 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string></string>
+	<string>tw</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Wdeprecated-declarations"
-    &lt;#code#&gt;
-#pragma clang diagnostic pop</string>
+	<string>typeof(weakSelf) self = weakSelf;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>08F00B85-138D-47F4-AA92-8321683D56BB</string>
+	<string>68FBEA3B-AA47-4F99-9B18-3AC167177A33</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<string>Xcode.SourceCodeLanguage.C</string>
 	<key>IDECodeSnippetSummary</key>
 	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>My Code Snippet</string>
+	<string>typeweak</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
